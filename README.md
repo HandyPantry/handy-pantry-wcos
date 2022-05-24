@@ -4,8 +4,8 @@
 [![Client Build Status](../../actions/workflows/client.yaml/badge.svg)](../../actions/workflows/client.yaml)
 [![End to End Build Status](../../actions/workflows/e2e.yaml/badge.svg)](../../actions/workflows/e2e.yaml)
 
-[![BCH compliance](https://bettercodehub.com/edge/badge/UMM-CSci-3601-S22/it-1-bletchley-park?branch=main)](https://bettercodehub.com/)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/UMM-CSci-3601-S22/it-1-bletchley-park.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/UMM-CSci-3601-S22/it-1-bletchley-park/alerts/)
+[![BCH compliance](https://bettercodehub.com/edge/badge/HandyPantry/handy-pantry?branch=main)](https://bettercodehub.com/)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/HandyPantry/handy-pantry.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/HandyPantry/handy-pantry/alerts/)
 
 - [Key Features](#key-features)
 - [Development](#development)
